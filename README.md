@@ -7,12 +7,6 @@ Interactive Map: Visualizes parking zones in Chennai, color-coded for safety.
 Current Location Safety: Displays whether the current location is safe or in a danger zone.
 Distance Calculation: Calculates and displays the nearest safe and danger zones relative to the user's location.
 
-Installation
-Clone Repository:
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-
-
 
 Run the Application:
 python app.py
