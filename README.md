@@ -54,6 +54,9 @@ Scikit-learn for machine learning models and
 Folium for interactive maps .
 
 ---
-**Sample Interface**
+
+## Sample Interface:
 The image below highlights your current location, clearly marked with safety status (e.g., Safe). It also showcases nearby zones, visually distinguishing between safe( green marker) and danger ( Red marker) areas for better situational awareness.
+
+---
 ![image](https://github.com/user-attachments/assets/a6fd540d-c98f-4324-8276-5fa168e075cf)
