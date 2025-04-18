@@ -54,3 +54,5 @@ Scikit-learn for machine learning models and
 Folium for interactive maps .
 
 ---
+**Sample Interface**
+![image](https://github.com/user-attachments/assets/a6fd540d-c98f-4324-8276-5fa168e075cf)
